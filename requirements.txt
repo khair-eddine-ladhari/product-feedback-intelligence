@@ -1,0 +1,9 @@
+streamlit
+groq
+chromadb
+sentence-transformers
+tiktoken
+tenacity
+pandas
+python-dotenv
+google-generativeai
