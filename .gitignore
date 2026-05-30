@@ -6,4 +6,5 @@ __pycache__/
 *.pyc
 .env
 uber_reviews.csv
-uber_reviews_clean.csv"
+uber_reviews_clean.csv
+uber_reviews_without_reviewid.csv
