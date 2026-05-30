@@ -7,4 +7,4 @@ __pycache__/
 .env
 uber_reviews.csv
 uber_reviews_clean.csv
-uber_reviews_without_reviewid.csv
+uber_reviews_without_reviewid.csvchroma_db/ 
