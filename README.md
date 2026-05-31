@@ -24,10 +24,10 @@ Most chatbots answer from general knowledge. UberMind answers from **real user d
 ## 🖥️ Demo
 
 ### 💬 Chat — Ask anything about Uber reviews
-![Chat Demo](https://i.imgur.com/placeholder.png)
+![Chat Demo](screenshots/chat.png)
 
 ### 📊 Dashboard — Auto-generated insights
-![Dashboard Demo](https://i.imgur.com/placeholder.png)
+![Dashboard Demo](screenshots/dashboard.png)
 
 > **Try it live:** [khaireddineladhari-product-feedback-intelligence.hf.space](https://khaireddineladhari-product-feedback-intelligence.hf.space)
 
